@@ -39,6 +39,7 @@
 	margin: 0;
 	padding-bottom: 12px;
 	color: #fff;
+	letter-spacing: 1px;
 }
 
 .grid figcaption small {
@@ -79,6 +80,7 @@
 	-webkit-transition: -webkit-transform 0.4s;
 	-moz-transition: -moz-transform 0.4s;
 	transition: transform 0.4s;
+	height: 700px;
 }
 
 .no-touch .cs-style-4 figure:hover img,
