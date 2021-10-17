@@ -380,7 +380,7 @@ a:hover, a:active, a:focus {
 }
 
 #about .about-img img {
-  border: 8px solid #ffffff;
+  border: 8px solid #ececec;
   position: absolute;
   left: -120px;
   bottom: -325px;
